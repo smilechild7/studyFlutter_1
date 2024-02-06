@@ -4,7 +4,6 @@ class Button extends StatelessWidget {
   final String text;
   final Color bgColor;
   final Color textColor;
-
   const Button({
     super.key,
     required this.text,
