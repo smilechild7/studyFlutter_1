@@ -4,7 +4,6 @@ class CureencyCard extends StatelessWidget {
   final String name, code, amount;
   final IconData icon;
   final bool isInverted;
-
   const CureencyCard({
     super.key,
     required this.name,
